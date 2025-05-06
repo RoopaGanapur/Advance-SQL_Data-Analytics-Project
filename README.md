@@ -22,10 +22,10 @@ to gauge the performnace of verticals. Using SQL, I explored customer acquisitio
 
 
 **Key Areas of Focus:**
-Promo Code Usage: Identified customers who exclusively used promo codes for their orders.
-Organic Customer Acquisition: Analyzed customers who made their first purchase without a promo code, focusing on growth strategies.
-Customer Retention & Behavior: Tracked new customer trends, including those who placed only one order and never returned.
-Restaurant Performance by Cuisine: Ranked restaurants by their cuisine type based on order volume, without using LIMIT or TOP functions.
+- [x]Promo Code Usage: Identified customers who exclusively used promo codes for their orders.
+- [x]Organic Customer Acquisition: Analyzed customers who made their first purchase without a promo code, focusing on growth strategies.
+- [x]Customer Retention & Behavior: Tracked new customer trends, including those who placed only one order and never returned.
+- [x]Restaurant Performance by Cuisine: Ranked restaurants by their cuisine type based on order volume, without using LIMIT or TOP functions.
 
 
 ##  Skills measured
