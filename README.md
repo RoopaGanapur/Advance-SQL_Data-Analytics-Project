@@ -1,8 +1,9 @@
-# Food Delivery Data Insights
+# SQL Analytics for Noon Restaurant | Portfolio Project
 
 **Project objective:**
 Noon launched food in Dubaion Jan 1 st and your line manager has  asked to share key performnace matrices
-to gauge the performnace of verticals.
+to gauge the performnace of verticals. Using SQL, I explored customer acquisition patterns, promo code usage, and order trends to deliver actionable insights.
+
 
 ## Purpose of Sales Analytics:
 - [x] Exploration of an SQL project using food delivery orders data.
@@ -19,6 +20,14 @@ to gauge the performnace of verticals.
 - [x] Analyzing customer acquisition data for January.
 
 
+
+**Key Areas of Focus:**
+Promo Code Usage: Identified customers who exclusively used promo codes for their orders.
+Organic Customer Acquisition: Analyzed customers who made their first purchase without a promo code, focusing on growth strategies.
+Customer Retention & Behavior: Tracked new customer trends, including those who placed only one order and never returned.
+Restaurant Performance by Cuisine: Ranked restaurants by their cuisine type based on order volume, without using LIMIT or TOP functions.
+
+
 ##  Skills measured
       
 - [x] Advance joins 
@@ -28,5 +37,14 @@ to gauge the performnace of verticals.
 - [x] Sub Queries 
 - [x] CASE When
 - [x] Aggregate functions
+- [x] SQL Query Writing
+- [x]Data Analysis & Reporting
+- [x]Customer Segmentation & Behavioral Analysis
+      
+
+**Impact:**
+ This project helped me hone my SQL skills and develop insights that can optimize marketing strategies, improve customer engagement, and support decision-making for business growth.
+
+
       
       - 
