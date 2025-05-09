@@ -1,4 +1,4 @@
-# SQL Analytics for Noon Restaurant | Portfolio Project
+# SQL Analytics for Noon Restaurant 
 
 **Project objective:**
 Noon launched food in Dubaion Jan 1 st and your line manager has  asked to share key performnace matrices
@@ -38,8 +38,8 @@ to gauge the performnace of verticals. Using SQL, I explored customer acquisitio
 - [x] CASE When
 - [x] Aggregate functions
 - [x] SQL Query Writing
-- [x]Data Analysis & Reporting
-- [x]Customer Segmentation & Behavioral Analysis
+- [x] Data Analysis & Reporting
+- [x] Customer Segmentation & Behavioral Analysis
       
 
 **Impact:**
